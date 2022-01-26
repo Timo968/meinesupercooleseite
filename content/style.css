@@ -1,0 +1,9 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    -ms-user-select: None; 
+    -moz-user-select: None; 
+    -webkit-user-select: None; 
+    user-select: None;
+    list-style-type: none;
+    
+}
